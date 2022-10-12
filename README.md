@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Loïc Boucher
-- 👀 I’m interested in motorsport, hardware news, heroic fantasy
+- 👀 I’m interested in collaborate on network project and application developpement
 - 🌱 I’m currently learning C#, PHP, JavaScipt, C, ..
-- 💞️ I’m looking to collaborate on network project and application developpement
+- 💞️ I’m looking to motorsport, hardware news, heroic fantasy
 - 📫 How to reach me : loic.boucher@laposte.net
 
 <!---
