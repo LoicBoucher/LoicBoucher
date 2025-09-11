@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Loïc Boucher
-- 👀 I’m interested in collaborate on network project and application developpement
-- 🌱 I have create some project with C#, Python, JavaScipt, C, ..
+- 👀 I’m interested in collaborate on network, infrastructure project
+- 🌱 I have create some project with Network, Cybersecurity
 - 💞️ I’m looking to motorsport, hardware news, heroic fantasy
 - 📫 How to reach me : loic.boucher@laposte.net
 
